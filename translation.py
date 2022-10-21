@@ -67,15 +67,17 @@ Below are some features I provide'''
 
 
 ABOUT_TEXT = """
-**My Details:**
-
-`🤖 Name:` ** {} **
+**Mʏ Nᴀᴍᴇ:** ** {} **
     
-`📝 Language:` [Python 3](https://www.python.org/)
-`🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/t2linkspromotion_bot)
-`🌐 Source Code:` [GitHub](https://github.com/T2links)
+**Vᴇʀsɪᴏɴ:** 𝐔𝐑𝐋_𝐒𝐡𝐨𝐫𝐭𝐧𝐞𝐫_𝐕2
+
+**Lᴀɴɢᴜᴀɢᴇ:** [Pʏᴛʜᴏɴ 3.10.6](https://www.python.org/)
+
+**Dᴇᴠᴇʟᴏᴘᴇʀ:** [𝐈𝐫𝐟𝐚𝐧 𝐀𝐥𝐢](https://t.me/Irfan50786)
+
+**Pᴏᴡᴇʀᴇᴅ Bʏ:** [𝐃𝐒 𝐁𝐨𝐭𝐳](https://t.me/DS_Botz)
+
+**Sᴘᴏɴsᴏʀᴇᴅ Bʏ:** [𝐃𝐒 𝐁𝐨𝐭𝐳](https://t.me/DS_Botz)
 """
 
 
